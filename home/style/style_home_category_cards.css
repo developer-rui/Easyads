@@ -1,0 +1,17 @@
+
+
+.category_block{
+    display: inline-block;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;    
+    width:43%;
+}
+
+
+@media screen and (max-width: 991px) {
+    .category_block{
+        width:93%;
+    }
+}
+

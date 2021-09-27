@@ -1,0 +1,9 @@
+
+#main_container {
+   overflow: hidden;
+}
+
+#main_section{    
+    min-height: 100vh;
+} 
+

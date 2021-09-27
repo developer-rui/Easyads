@@ -1,0 +1,30 @@
+
+/* --- --- --- La zone d'intro avec l'image de fond --- --- --- */
+
+#intro_pane {
+    /*min-height: 100vh;*/
+    background-image: url("../images/home_background.jpg");
+    background-size: cover;
+    /*background-attachment: fixed;*/
+}
+
+#intro_content {
+    color: white;
+    font-weight: bold;
+    text-align: justify;
+}
+
+#intro_content h1 {
+    font-size: 45px;
+}
+
+#intro_content p {
+    font-size: 22px;
+}
+
+/* --- --- --- La zone au fond gris avec plus de présentations et boutons --- --- --- */
+
+#presentation_zone{
+    background-color: rgb(215,215,215);
+}
+
